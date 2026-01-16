@@ -1,1 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
 
+# Entornos virtuales
+venv/
+.env
+
+# Archivos de datos
+data/plantilla.json
